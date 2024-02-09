@@ -1,0 +1,28 @@
+.cal {
+  text-align: center;
+}
+
+.cal-head {
+  background-color: #282c34;
+  min-height: 10vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+.cal-foot{
+      background-color: #333;
+      color: #fff;
+      padding: 20px;
+      text-align: center;
+      
+}
+
+main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 80vh;
+}
