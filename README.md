@@ -4,15 +4,14 @@
       3.ng serve**
 
 
-      Netflix Clone using Reactjs
+      **Netflix Clone using Reactjs**
 
         **DEMO**
+![Screenshot (108)](https://github.com/Razlina11/React_js/assets/132158006/955d2273-de3b-4f98-bd93-33fc624b1b28)
+![Screenshot (109)](https://github.com/Razlina11/React_js/assets/132158006/a1788652-d849-428d-b65a-bb516b415022)
+![Screenshot (110)](https://github.com/Razlina11/React_js/assets/132158006/65fcd27d-cd39-4f2b-a128-3e08e2775c63)
+![image](https://github.com/Razlina11/React_js/assets/132158006/9fc8f60f-93f6-4ddd-ad99-b661b8be9ff6)
 
-        ![image](https://github.com/Razlina11/React_js/assets/132158006/e1d6b2d2-4f76-4d78-9e7c-d1363d476dc7)
-
-        ![image](https://github.com/Razlina11/React_js/assets/132158006/f401d4da-7964-4426-84f0-85d97929901f)
-
-        ![image](https://github.com/Razlina11/React_js/assets/132158006/e76d1f2b-c8e1-443f-b0c6-a4ba15142a9d)
-
+        
 
 
