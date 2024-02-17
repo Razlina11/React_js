@@ -1,0 +1,66 @@
+.banner {
+  color: rgb(13, 10, 10);
+  background-color: #f9f8f8;
+  position: relative;
+  height: 90vh;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 0 5%;
+}
+.banner_contents {
+  max-width: 600px;
+}
+.banner_title {
+  font-size: 3rem;
+  font-weight: 700;
+  margin-bottom: 20px;
+  color:rgb(243, 246, 246)
+}
+.banner_description {
+  color:#f4f2f2;
+    width: 100%;
+  max-width: 500px;
+  font-size: 1.2rem;
+  line-height: 1.6;
+  margin-bottom: 30px;
+}
+
+/* Buttons container */
+.banner_buttons {
+  display: flex;
+  margin-top: 30px;
+}
+
+/* Play button */
+.banner_button--play,
+.banner_button--mylist {
+  cursor: pointer;
+  color: white;
+  background-color: #e50914;
+  border: none;
+  font-weight:600;
+  border-radius: 50px;
+  padding: 15px 30px 15px;
+  margin-right: 20px;
+  text-transform: uppercase;
+  font-size: 1.2rem;
+  transition: background-color 0.3s ease, transform 0.2s ease;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
+}
+
+/* Play button hover effect */
+.banner_button--play:hover,
+.banner_button--mylist:hover {
+  background-color: #f6f2f2;
+  color:#000;
+  transform: translateY(-2px);
+  box-shadow: 0 5px 10px rgba(0, 0, 0, 0.5);
+}
+
+/* Play button focus effect */
+.banner_button--play:focus,
+.banner_button--mylist:focus {
+  outline: none;
+  box-shadow: 0 0 0 3px rgba(229, 9, 20, 0.5);
+}
